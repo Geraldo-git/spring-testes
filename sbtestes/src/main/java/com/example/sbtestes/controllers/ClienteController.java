@@ -1,7 +1,8 @@
 package com.example.sbtestes.controllers;
 
-import com.example.sbtestes.models.Cliente;
 import org.springframework.web.bind.annotation.*;
+
+import com.example.sbtestes.model.entities.Cliente;
 
 @RestController
 @RequestMapping(path = "/clientes")

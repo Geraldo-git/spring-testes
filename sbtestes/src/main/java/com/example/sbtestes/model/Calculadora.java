@@ -1,4 +1,4 @@
-package com.example.sbtestes.models;
+package com.example.sbtestes.model;
 
 public class Calculadora {
 
